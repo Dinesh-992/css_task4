@@ -1,0 +1,57 @@
+*{
+    background-color: rgb(115, 173, 196);
+}
+
+#main{
+    margin-top: 100px;
+    width: 100px;
+    height: 300px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+    border: 5px dotted white;
+}
+#red{
+    
+    background-color: red;
+    margin: 30px;
+    height: 50px;
+    border-radius: 20px;
+
+}
+#yellow{
+    background-color: rgb(245, 240, 105);
+    margin: 30px;
+    height: 50px;
+    border-radius: 20px;
+
+}
+#green{
+    background-color: rgb(47, 228, 80);
+    margin: 30px;
+    height: 50px;
+    border-radius: 20px;
+
+}
+#stand{
+    background-color: black;
+    width: 20px;
+   height: 300px;
+   
+   
+}
+#base{
+    background-color: black;
+    margin-bottom: 50px;
+}
+#sun{
+    background-color: orange;
+    width: 75px;
+    height: 75px;
+    border-radius: 50px;
+    border-color: black;
+margin: 75px;
+}
+#road{
+    background-color: black;
+    width:500px
+}
